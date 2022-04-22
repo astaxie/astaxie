@@ -13,8 +13,6 @@ Last Update: 2022-04-22
 - [Swagger UI Generator for Go](https://github.com/yvasiyarov/swagger) The first tool to generate API docs with Swagger.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) The First open source Go book.
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=astaxie&show_icons=true&theme=radical) 
-
 
 <p  align="center">
 <img src="https://komarev.com/ghpvc/?username=astaxie&label=Visitors" alt="visitor badge"/>       
