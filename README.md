@@ -1,19 +1,20 @@
-Hi there 👋. You're probably interested in my open source work, so here is a quick summary. 
+👋 Hi there! I'm the creator behind innovative tech projects spanning the Gopher and AI worlds.
 
-📫 Please open a GitHub issue if you want to discuss something related to an open source project of mine. 
+## AI Pioneer & Creator
+- [DeepChat](https://github.com/thinkinaixyz/deepchat) - Founder and lead developer 
+- [Go-MCP](https://github.com/ThinkInAIXYZ/go-mcp) - Creator and maintainer
 
-Otherwise you can reach me at xiemengjun@gmail.com
+## Open Source Legacy
+- [beego](https://github.com/beego/beego) - Owner & Originator of the longest-standing Web framework in the Go ecosystem
+- [beedb](https://github.com/astaxie/beedb) - Created the first ORM library for Go
+- [Swagger UI Generator for Go](https://github.com/yvasiyarov/swagger) - Pioneered the first tool to generate API docs with Swagger for Go
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - Authored the first open source Go book
 
-Last Update: 2022-04-22
+## From Gopher to AI Pro
+My journey began in the Go community where I created foundational tools that shaped the ecosystem. Today, I'm focused on advancing AI technologies through my latest projects at ThinkInAI.
 
-## Open Source
+📫 **Contact:** Open a GitHub issue for project-related discussions or reach me at xiemengjun@gmail.com
 
-- [beego](https://github.com/beego/beego) The oldest Web framework in the Go area. I am the Owner & Originator.
-- [beedb](https://github.com/astaxie/beedb) The First ORM in Go.
-- [Swagger UI Generator for Go](https://github.com/yvasiyarov/swagger) The first tool to generate API docs with Swagger.
-- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) The First open source Go book.
-
-
-<p  align="center">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=astaxie&label=Visitors" alt="visitor badge"/>       
 </p>
